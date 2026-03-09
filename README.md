@@ -74,5 +74,6 @@ I am a quick learner who enjoys improving my skills and building projects that e
 ## 📜 Certifications
 
 ✔ Google Associate Cloud Engineer
+✔ ExcelR Data Science Course Completion Certificate
 
 ---
