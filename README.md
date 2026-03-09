@@ -21,6 +21,21 @@ I am a quick learner who enjoys improving my skills and building projects that e
 
 ---
 
+💻 Skills
+• Languages: Python, Javascript, SQL
+
+• Frameworks: Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn
+
+• Web Technologies : HTML, CSS, Angular
+
+• Databases : MySQL
+
+• Tools: Excel, PowerPoint, MySQL, Google Sheets
+
+• Cloud and Platforms: AWS(Basics), GCP, Google Colab, Jupyter Notebook, Vscode
+
+• Soft Skills: Problem Solving, Collaboration, Analytical Thinking, Excellent Communication
+
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/jahnavi-talari-b480b1267)
