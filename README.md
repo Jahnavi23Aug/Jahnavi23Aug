@@ -20,8 +20,15 @@ I am a quick learner who enjoys improving my skills and building projects that e
 [talarijahnavi88@gmail.com](mailto:talarijahnavi88@gmail.com)
 
 ---
+## 📜 Certifications
 
-💻 Skills
+✔ Google Associate Cloud Engineer
+
+✔ ExcelR Data Science Course Completion Certificate
+
+---
+
+## 💻 Skills
 • Languages: Python, Javascript, SQL
 
 • Frameworks: Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn
@@ -35,6 +42,8 @@ I am a quick learner who enjoys improving my skills and building projects that e
 • Cloud and Platforms: AWS(Basics), GCP, Google Colab, Jupyter Notebook, Vscode
 
 • Soft Skills: Problem Solving, Collaboration, Analytical Thinking, Excellent Communication
+
+---
 
 ## 🌐 Socials
 
@@ -71,9 +80,3 @@ I am a quick learner who enjoys improving my skills and building projects that e
 
 ---
 
-## 📜 Certifications
-
-✔ Google Associate Cloud Engineer
-✔ ExcelR Data Science Course Completion Certificate
-
----
