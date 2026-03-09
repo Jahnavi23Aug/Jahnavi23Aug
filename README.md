@@ -80,3 +80,8 @@ I am a quick learner who enjoys improving my skills and building projects that e
 
 ---
 
+## 🐍 GitHub Contribution Snake
+
+![Snake animation](https://github.com/YOURUSERNAME/YOURUSERNAME/blob/output/github-contribution-grid-snake.svg)
+
+
